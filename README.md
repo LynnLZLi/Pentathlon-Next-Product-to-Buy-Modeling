@@ -6,7 +6,7 @@ In this project, I conducted an extensive analysis to predict the next product P
 **Technology Stack:**
 - **Data Analysis and Machine Learning:** Python, pandas, scikit-learn, xgboost, pyrsm
 - **Data Visualization:** Matplotlib
-- **Version Control:** Git and GitHub for collaboration
+- **Version Control:** Git and GitHub
 
 **Methodology and Key Accomplishments:**
 1. **Data Preparation and Analysis:**
@@ -21,10 +21,6 @@ In this project, I conducted an extensive analysis to predict the next product P
 3. **Message Optimization Strategy:**
    - Analyzed the impact of different promotional messages on customer purchase likelihood.
    - Implemented a system to predict and maximize the expected profit by determining the optimal promotional message for each customer.
-
-4. **Collaboration and Version Control:**
-   - Utilized Git for version control and GitHub for code sharing and collaboration among team members.
-   - Ensured reproducibility and consistency in code execution across different environments.
 
 **Key Outcomes:**
 - **Optimized Marketing Strategies:** Enhanced the effectiveness of marketing campaigns by tailoring messages to individual customer preferences, significantly increasing potential sales conversions.
